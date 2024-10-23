@@ -1,0 +1,3 @@
+- cd into each folder, `npm i `
+- `backend` > node app.js
+- `frontend` > npm run start
